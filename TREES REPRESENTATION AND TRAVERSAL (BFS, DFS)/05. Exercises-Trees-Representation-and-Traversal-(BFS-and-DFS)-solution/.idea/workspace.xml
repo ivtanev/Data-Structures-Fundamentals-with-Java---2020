@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68ece42c-e56e-49cc-a5fb-b105df18e5ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZLHygJeHHIKneBjcnvuStVlQkZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="implementations" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="05. Exercises-Trees-Representation-and-Traversal-(BFS-and-DFS)-Skeleton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05. Exercises-Trees-Representation-and-Traversal-(BFS-and-DFS)-Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.TreeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest.testTreeCreation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05. Exercises-Trees-Representation-and-Traversal-(BFS-and-DFS)-Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.TreeTest" />
+      <option name="METHOD_NAME" value="testTreeCreation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest.testTreesWithGivenSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05. Exercises-Trees-Representation-and-Traversal-(BFS-and-DFS)-Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.TreeTest" />
+      <option name="METHOD_NAME" value="testTreesWithGivenSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest.testTreesWithGivenSum3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05. Exercises-Trees-Representation-and-Traversal-(BFS-and-DFS)-Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.TreeTest" />
+      <option name="METHOD_NAME" value="testTreesWithGivenSum3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TreeTest" />
+        <item itemvalue="JUnit.TreeTest.testTreeCreation" />
+        <item itemvalue="JUnit.TreeTest.testTreesWithGivenSum3" />
+        <item itemvalue="JUnit.TreeTest.testTreesWithGivenSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68ece42c-e56e-49cc-a5fb-b105df18e5ed" name="Default Changelist" comment="" />
+      <created>1584611709665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584611709665</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="110" y="121" width="1146" height="487" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584796224640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="121" width="1146" height="487" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1584796224640" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1584620315114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584620315114" />
+    <state x="479" y="223" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586528026159">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="223" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1586528026159" />
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1584799871880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584799871880" />
+    <state width="414" height="466" key="DebuggerActiveHint" timestamp="1584807113590">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="414" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1584807113590" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586009564894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586009564894" />
+    <state width="1286" height="156" key="GridCell.Tab.0.bottom" timestamp="1586528575154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586528575154" />
+    <state width="1286" height="156" key="GridCell.Tab.0.center" timestamp="1586528575154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586528575154" />
+    <state width="1286" height="156" key="GridCell.Tab.0.left" timestamp="1586528575154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586528575154" />
+    <state width="1286" height="156" key="GridCell.Tab.0.right" timestamp="1586528575154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586528575154" />
+    <state width="1286" height="194" key="GridCell.Tab.1.bottom" timestamp="1586528575149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586528575149" />
+    <state width="1286" height="194" key="GridCell.Tab.1.center" timestamp="1586528575149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586528575149" />
+    <state width="1286" height="194" key="GridCell.Tab.1.left" timestamp="1586528575149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586528575149" />
+    <state width="1286" height="194" key="GridCell.Tab.1.right" timestamp="1586528575149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586528575149" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1584611922521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584611922521" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1586528772220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586528772220" />
+    <state x="551" y="237" key="extract.method.dialog" timestamp="1584797892440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="551" y="237" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1584797892440" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1584804513314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1584804513314" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/implementations/TheMatrixTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/TheMatrix.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/TheMatrix.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/Tree.java</url>
+          <line>233</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/Tree.java</url>
+          <line>229</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/implementations/TreeTest.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/implementations/TreeTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/implementations/TreeTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/implementations/TreeTest.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/implementations/TreeTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="trees.get(0).key" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Trees_Representation_and_Traversal__BFS_DFS__Exercise$TreeTest.ic" NAME="TreeTest Coverage Results" MODIFIED="1584793425357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>implementations.*</FILTER>
+    </SUITE>
+  </component>
+</project>

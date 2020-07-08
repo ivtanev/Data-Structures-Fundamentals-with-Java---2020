@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a271df79-6f18-442f-ae8a-8d7c2424a8ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZerjXXnMhilotit22SqtmE9gH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../07. Data-Structures-Heaps-BST-Exercises-solution" />
+  </component>
+  <component name="RunManager" selected="JUnit.BinarySearchTreeTest">
+    <configuration name="BinarySearchTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heaps-BST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.BinarySearchTreeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxHeapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heaps-BST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.MaxHeapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxHeapTest.testHeapifyUpAdd100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heaps-BST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.MaxHeapTest" />
+      <option name="METHOD_NAME" value="testHeapifyUpAdd100" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxHeapTest.testSizeShouldBeCorrectWhenAddElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heaps-BST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.MaxHeapTest" />
+      <option name="METHOD_NAME" value="testSizeShouldBeCorrectWhenAddElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heaps-BST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.PriorityQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BinarySearchTreeTest" />
+        <item itemvalue="JUnit.PriorityQueueTest" />
+        <item itemvalue="JUnit.MaxHeapTest" />
+        <item itemvalue="JUnit.MaxHeapTest.testSizeShouldBeCorrectWhenAddElement" />
+        <item itemvalue="JUnit.MaxHeapTest.testHeapifyUpAdd100" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a271df79-6f18-442f-ae8a-8d7c2424a8ed" name="Default Changelist" comment="" />
+      <created>1585051251170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585051251170</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1585137299642">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1585137299642" />
+    <state x="110" y="121" width="1146" height="487" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585065060899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="121" width="1146" height="487" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1585065060899" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1585079566616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585079566616" />
+    <state width="443" height="438" key="DebuggerActiveHint" timestamp="1585066304759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="443" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1585066304759" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586009577348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586009577348" />
+    <state width="1286" height="155" key="GridCell.Tab.0.bottom" timestamp="1586530831099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586530831099" />
+    <state width="1286" height="155" key="GridCell.Tab.0.center" timestamp="1586530831098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586530831098" />
+    <state width="1286" height="155" key="GridCell.Tab.0.left" timestamp="1586530831098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586530831098" />
+    <state width="1286" height="155" key="GridCell.Tab.0.right" timestamp="1586530831098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586530831098" />
+    <state width="1286" height="194" key="GridCell.Tab.1.bottom" timestamp="1585080084880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585080084880" />
+    <state width="1286" height="194" key="GridCell.Tab.1.center" timestamp="1585080084880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585080084880" />
+    <state width="1286" height="194" key="GridCell.Tab.1.left" timestamp="1585080084880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585080084880" />
+    <state width="1286" height="194" key="GridCell.Tab.1.right" timestamp="1585080084880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585080084880" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585137229439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585137229439" />
+    <state x="260" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585066289205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="260" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1585066289205" />
+    <state x="413" y="133" key="extract.method.dialog" timestamp="1585073604013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="133" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1585073604013" />
+  </component>
+</project>

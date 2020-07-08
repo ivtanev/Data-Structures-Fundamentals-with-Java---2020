@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="151267fa-f865-4dd5-9cb8-c34cd194f2a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZrBDLmv9KAQSM4urlU5vAfrJPO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.DataTest">
+    <configuration name="DataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exam-Preparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="core" />
+      <option name="MAIN_CLASS_NAME" value="core.DataTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exam-Preparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="core" />
+      <option name="MAIN_CLASS_NAME" value="core.LoaderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerformanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exam-Preparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="core" />
+      <option name="MAIN_CLASS_NAME" value="core.PerformanceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DataTest" />
+        <item itemvalue="JUnit.PerformanceTest" />
+        <item itemvalue="JUnit.LoaderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="151267fa-f865-4dd5-9cb8-c34cd194f2a5" name="Default Changelist" comment="" />
+      <created>1585587226944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585587226944</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1286" height="155" key="GridCell.Tab.0.bottom" timestamp="1585603009027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585603009027" />
+    <state width="1286" height="155" key="GridCell.Tab.0.center" timestamp="1585603009027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585603009027" />
+    <state width="1286" height="155" key="GridCell.Tab.0.left" timestamp="1585603009027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585603009027" />
+    <state width="1286" height="155" key="GridCell.Tab.0.right" timestamp="1585603009027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585603009027" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585587306436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585587306436" />
+    <state x="413" y="119" key="extract.method.dialog" timestamp="1585599677406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1585599677406" />
+  </component>
+</project>
